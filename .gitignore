@@ -1,0 +1,13 @@
+.git/
+.vs/
+Binaries/
+Saved/
+Intermediate/
+Content/
+DerivedDataCache/
+Intermediate/
+Platforms/
+Plugins/
+ActionGas.sln/
+ShootThemUp.sln
+
